@@ -21,7 +21,7 @@ A powerful Bank Identification Number (BIN) checking tool that validates card in
 
 ```bash
 git clone https://github.com/noorali5780/BIN-VALIDATOR-CHECKER.git
-cd bin-checker
+cd BIN-VALIDATOR-CHECKER
 pip install -r requirements.txt
 
 Copy
